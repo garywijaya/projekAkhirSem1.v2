@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-// ===== AUTH MANAGER CLASS (Simplified) =====
+// ===== AUTH MANAGER CLASS telah disimpifikasi =====
 // Mengelola autentikasi sederhana
 class AuthManager
 {
